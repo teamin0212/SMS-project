@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: net.alhazmy13.Gota:libary-1.4.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/libary-1.4.1.aar/e6072b30e790b88193ed50b986ac6b91/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/libary-1.4.1.aar/e6072b30e790b88193ed50b986ac6b91/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.alhazmy13.Gota/libary/1.4.1/26133d42d7dde0517a03422505af158cc96b6831/libary-1.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
